@@ -1,5 +1,7 @@
 {
     "cSpell.ignoreWords": [
         "rocketline"
-    ]
+    ],
+    "editor.fontSize": 9,
+    "files.autoSave": "onWindowChange"
 }
